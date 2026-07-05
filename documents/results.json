@@ -1,0 +1,82 @@
+[
+    {
+        "score": 0.1636682152748108,
+        "sentence": "Java is a powerful, class-based, object-oriented programming language designed to have as few implementation dependencies as possible.It follows the \"Write Once, Run Anywhere\" (WORA) principle, meaning that compiled Java code can run on all platforms that support the Java Virtual Machine (JVM).This cross-platform capability, combined with its strong memory management and security features, has made it a cornerstone of enterprise-level software development for decades.",
+        "source": "documents/java.txt"
+    },
+    {
+        "score": 0.15357698500156403,
+        "sentence": "Its dynamic typing and automatic memory management further streamline the development process, allowing for faster prototyping and iteration. Beyond data tasks, it is widely used for web development, automation scripting, and system administration. A vibrant global community ensures continuous support, frequent updates, and a wealth of educational resources. Because of its \"batteries-included\" philosophy, developers can solve complex problems efficiently without reinventing the wheel. ",
+        "source": "documents/python.txt"
+    },
+    {
+        "score": 0.15007834136486053,
+        "sentence": "The language boasts an extensive standard library and a massive ecosystem of third-party packages, enabling developers to build complex applications with minimal code. Python is the industry standard for data science, machine learning, and artificial intelligence, thanks to robust frameworks like NumPy, Pandas, and TensorFlow.Its dynamic typing and automatic memory management further streamline the development process, allowing for faster prototyping and iteration. ",
+        "source": "documents/python.txt"
+    },
+    {
+        "score": 0.1378675252199173,
+        "sentence": "Python is a high-level, interpreted programming language known for its remarkable readability and simple syntax, which makes it an excellent choice for beginners and experts alike.It supports multiple programming paradigms, including procedural, object-oriented, and functional programming, providing flexibility for diverse development needs.The language boasts an extensive standard library and a massive ecosystem of third-party packages, enabling developers to build complex applications with minimal code. ",
+        "source": "documents/python.txt"
+    },
+    {
+        "score": 0.12885713577270508,
+        "sentence": "It is the primary language for building large-scale backend systems, Android mobile applications, and high-performance financial trading platforms. The language has evolved consistently over the years, introducing modern features like functional programming constructs and improved concurrency support to keep pace with new technologies.A vast ecosystem of libraries, build tools like Maven and Gradle, and integrated development environments (IDEs) supports the entire software development lifecycle.",
+        "source": "documents/java.txt"
+    },
+    {
+        "score": 0.11608316004276276,
+        "sentence": " Spring Security provides a robust and highly customizable framework for securing modern web and enterprise applications against common vulnerabilities.  Its seamless integration with various data access technologies, including JPA and Hibernate, makes interacting with databases both simple and efficient. The framework is highly scalable, supporting everything from monolithic architectures to modern, distributed microservices environments. ",
+        "source": "documents/spring.txt"
+    },
+    {
+        "score": 0.11466657370328903,
+        "sentence": "Spring is the most popular application framework for the Java platform, providing comprehensive infrastructure support for developing enterprise-grade applications. At its core, the framework leverages Dependency Injection (DI) and Aspect-Oriented Programming (AOP) to promote clean, modular, and loosely coupled code.",
+        "source": "documents/spring.txt"
+    },
+    {
+        "score": 0.10977989435195923,
+        "sentence": "This cross-platform capability, combined with its strong memory management and security features, has made it a cornerstone of enterprise-level software development for decades.Java\u00e2\u20ac\u2122s strict syntax and robust type checking help catch errors early in the development lifecycle, contributing to the creation of stable and scalable systems.It is the primary language for building large-scale backend systems, Android mobile applications, and high-performance financial trading platforms. ",
+        "source": "documents/java.txt"
+    },
+    {
+        "score": 0.10121068358421326,
+        "sentence": " The framework is highly scalable, supporting everything from monolithic architectures to modern, distributed microservices environments.  With its active community and frequent updates, Spring remains at the forefront of cloud-native development and serverless computing.  By drastically reducing development time and complexity, it has become an indispensable tool for building professional, reliable, and high-performance Java applications.",
+        "source": "documents/spring.txt"
+    },
+    {
+        "score": 0.09236438572406769,
+        "sentence": "A vast ecosystem of libraries, build tools like Maven and Gradle, and integrated development environments (IDEs) supports the entire software development lifecycle.Developers benefit from extensive documentation and long-term support, which ensures that legacy systems remain maintainable and secure. Java continues to be a top choice for mission-critical applications where performance, scalability, and reliability are absolute requirements.",
+        "source": "documents/java.txt"
+    },
+    {
+        "score": 0.08555803447961807,
+        "sentence": " transaction management, and security, allowing developers to focus on core business logic. The framework includes a vast collection of sub-projects, such as Spring Boot, which revolutionized Java development by introducing auto-configuration and an embedded server environment. Spring Security provides a robust and highly customizable framework for securing modern web and enterprise applications against common vulnerabilities. ",
+        "source": "documents/spring.txt"
+    },
+    {
+        "score": 0.08280044794082642,
+        "sentence": "Because of its \"batteries-included\" philosophy, developers can solve complex problems efficiently without reinventing the wheel. The cross-platform nature of Python allows code to run seamlessly on various operating systems, reinforcing its position as a truly versatile tool.Ultimately, Python's design philosophy prioritizes developer productivity, making it one of the most popular and influential languages in modern computing.",
+        "source": "documents/python.txt"
+    },
+    {
+        "score": 0.07356934249401093,
+        "sentence": " At its core, the framework leverages Dependency Injection (DI) and Aspect-Oriented Programming (AOP) to promote clean, modular, and loosely coupled code. It simplifies the development process by handling boilerplate tasks, such as database connectivity, transaction management, and security, allowing developers to focus on core business logic.",
+        "source": "documents/spring.txt"
+    },
+    {
+        "score": 0.0700254738330841,
+        "sentence": "Ultimately, Python's design philosophy prioritizes developer productivity, making it one of the most popular and influential languages in modern computing.",
+        "source": "documents/python.txt"
+    },
+    {
+        "score": 0.06025043874979019,
+        "sentence": " By drastically reducing development time and complexity, it has become an indispensable tool for building professional, reliable, and high-performance Java applications. ",
+        "source": "documents/spring.txt"
+    },
+    {
+        "score": -0.008608422242105007,
+        "sentence": "Java continues to be a top choice for mission-critical applications where performance, scalability, and reliability are absolute requirements.",
+        "source": "documents/java.txt"
+    }
+]
